@@ -8,10 +8,6 @@ Let's create something that will revolutionize the concept of UI/UX or I must sa
 
 
 
-<hr>
-
-
-
 ## What do we need?
 - New Ideas
 - Creativity
@@ -19,8 +15,6 @@ Let's create something that will revolutionize the concept of UI/UX or I must sa
 - Dedication
 - Curiosity
 - Strong Will
-
-<hr>
 
 
 ## Technical Things
@@ -35,12 +29,10 @@ Let's create something that will revolutionize the concept of UI/UX or I must sa
 ## Why doing something that seems to be a failure?
 Well the answer is pretty simple, we won't know until we try it. If I am doing it alone, probably it is going to take several years to achieve it, rather hundreds of the bran will cut that time by quarter may be even more. Who knows. What now important is the <span style="color: orange"> <strong> CONCEPT </strong> </span>
 
-<hr>
 
 ## Who am I?
 Yeah that's is not important yet I would like to introduce myself in short words. I am Karan, call me Artist. I have interest in various crazy things like AI/ML, Data Science, Web Dev, UI/UX, Crypto/Blockchain, Gaming, Artworks, Sports, Film/Cinematography, Editing, Writing. I know it's Crazy! I just don't stop myself, whatever I desire to do & finds interesting, I just do it until I am pretty good at it.
 
-<hr>
 
 ## Contribution
 You are welcome to contribute. To be honest, only those who are crazy and artistic - prioritize something productive and artistic more than the money, only those can understand what I am here conveying. As a result, you will be the part of something that is even more valuable than money. No high hopes, just blunt truth I speak.
