@@ -39,7 +39,7 @@ Let's create something that will revolutionize the concept of UI/UX or I must sa
 
 
 ## Why doing something that seems to be a failure?
-Well the answer is pretty simple, we won't know until we try it. If I am doing it alone, probably it is going to take several years to achieve it, rather hundreds of the bran will cut that time by quarter may be even more. Who knows. What now important is the <span style="color: orange"> <strong> CONCEPT </strong> </span>
+Well the answer is pretty simple, we won't know until we try it. If I am doing it alone, probably it is going to take several years to achieve it, rather hundreds of the brain will cut that time by quarter may be even more. Who knows. What now important is the <span style="color: orange"> <strong> CONCEPT </strong> </span>
 
 
 <br/>
@@ -47,7 +47,7 @@ Well the answer is pretty simple, we won't know until we try it. If I am doing i
 
 
 ## Who am I?
-Yeah that's is not important yet I would like to introduce myself in short words. I am Karan, call me Artist. I have interest in various crazy things like AI/ML, Data Science, Web Dev, UI/UX, Crypto/Blockchain, Gaming, Artworks, Sports, Film/Cinematography, Editing, Writing. I know it's Crazy! I just don't stop myself, whatever I desire to do & finds interesting, I just do it until I am pretty good at it.
+Yeah that's is not important yet I would like to introduce myself in short words. I am Karan, call me Artist. I have interest in various crazy things like AI/ML, Data Science, Web Dev, Cyber Security, UI/UX, Crypto/Blockchain, Gaming, Artworks, Sports, Film/Cinematography, Editing, Writing. I know it's Crazy! I just don't stop myself, whatever I desire to do & finds interesting, I just do it until I am pretty good at it.
 
 
 <br/>
