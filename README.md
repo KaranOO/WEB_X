@@ -6,7 +6,11 @@ TO create: Something that represents the tech at true form.
 ## Intro:
 Let's create something that will revolutionize the concept of UI/UX or I must say clearly the experience on web. What I plan to do is creating something together that changes the way we access the web pages. I don't expect the achieve it alone, but it wouldn't even stop me if I am alone.
 
+
+
 <hr>
+
+
 
 ## What do we need?
 - New Ideas
