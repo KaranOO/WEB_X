@@ -57,8 +57,7 @@ Yeah that's is not important yet I would like to introduce myself in short words
 ## Contribution
 You are welcome to contribute. To be honest, only those who are crazy and artistic - prioritize something productive and artistic more than the money, only those can understand what I am here conveying. As a result, you will be the part of something that is even more valuable than money. No high hopes, just blunt truth I speak.
 
-Ever plan to contribute, you are welcome. In case you wish to talk, here is my mail -> maikaran@tutamail.com
-and the [Figma](https://www.figma.com/design/ON9WASAjirP1IcarjqNRny/Portfolio-2025?node-id=0-1&t=OpSHv5Cuszqmbp4s-1) Designs is in progress.
+Ever plan to contribute, you are welcome. In case you wish to talk you can [Connect.](maikaran@tutamail.com) Or if you wish to check out the [Design](https://www.figma.com/design/ON9WASAjirP1IcarjqNRny/Portfolio-2025?node-id=0-1&t=OpSHv5Cuszqmbp4s-1), you are welcome.
 </br>
 
 _I lack in formal talks , so my humble apologies in case if the way I conveyed my message hurts you._
