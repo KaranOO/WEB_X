@@ -6,6 +6,8 @@ TO create: Something that represents the tech at true form.
 ## Intro:
 Let's create something that will revolutionize the concept of UI/UX or I must say clearly the experience on web. What I plan to do is creating something together that changes the way we access the web pages. I don't expect the achieve it alone, but it wouldn't even stop me if I am alone.
 
+<br/>
+<br/>
 
 
 ## What do we need?
@@ -15,6 +17,10 @@ Let's create something that will revolutionize the concept of UI/UX or I must sa
 - Dedication
 - Curiosity
 - Strong Will
+
+  
+<br/>
+<br/>
 
 
 ## Technical Things
@@ -26,12 +32,26 @@ Let's create something that will revolutionize the concept of UI/UX or I must sa
 - Animations (Smooth and pleasing)
 - Modules
 
+
+<br/>
+<br/>
+
+
+
 ## Why doing something that seems to be a failure?
 Well the answer is pretty simple, we won't know until we try it. If I am doing it alone, probably it is going to take several years to achieve it, rather hundreds of the bran will cut that time by quarter may be even more. Who knows. What now important is the <span style="color: orange"> <strong> CONCEPT </strong> </span>
 
 
+<br/>
+<br/>
+
+
 ## Who am I?
 Yeah that's is not important yet I would like to introduce myself in short words. I am Karan, call me Artist. I have interest in various crazy things like AI/ML, Data Science, Web Dev, UI/UX, Crypto/Blockchain, Gaming, Artworks, Sports, Film/Cinematography, Editing, Writing. I know it's Crazy! I just don't stop myself, whatever I desire to do & finds interesting, I just do it until I am pretty good at it.
+
+
+<br/>
+<br/>
 
 
 ## Contribution
